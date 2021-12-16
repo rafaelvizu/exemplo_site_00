@@ -145,7 +145,6 @@ footer {
     background-color: var(--cor01);
     text-align: center;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.507);
-    border-radius: 0px 6px 0px 6px;
 }
 
 footer > p {
