@@ -69,6 +69,7 @@ main {
     margin: auto;
     background-color: var(--cor02);
     text-align: justify;
+    padding-bottom: 20px;
 }
 
 main h1 {
